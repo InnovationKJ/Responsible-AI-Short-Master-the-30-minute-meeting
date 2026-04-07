@@ -1,0 +1,85 @@
+Responsible AI Shorts: Master the 30-Minute Meeting, transform your culture
+How AI-facilitated meetings stop "quiet quitting" and build operational excellence.
+
+The Short Version: Most meetings fail because they mix prep and decisions. By using a HITL framework, AI handles friction so humans focus on judgment. 
+Total read time: 4 mins. 
+
+---
+
+Most meetings fail because they mix preparation, discussion, and documentation into one block of time. This model separates them:
+
+* Before: AI prepares, humans approve 
+* During: humans decide (no status updates) 
+* After: AI drafts follow-ups, humans finalize 
+
+The result: faster decisions, fewer meetings, and time back for actual work.
+
+### Current state of meetings: where momentum goes to die
+Back-to-back meetings. An hour at a time. Same faces. New faces. People who don’t need to be there — and people who should be but aren’t. Some stay quiet, not because they have nothing to say, but because the format never creates the conditions for them to say it.
+
+So, people adapt. They stop paying attention — camera on, brain somewhere else — trying to keep up with the real work. Or they stay engaged, repeat themselves across meetings, and handle the actual work after 5pm, on weekends, or at 6am.
+
+Neither option is sustainable. Over time, your workforce starts asking themselves, “Is this the right organization for me?” (where quiet quitting begins). This piece is about a different way to run a meeting, a sharper one. The room is informed. Decisions get made. The workday is transformed into a productive one, with time to think, plan and contribute.
+
+### Setting the framework — the right mindset
+AI didn't create these problems. And it can't fix the culture that caused them. Some organizations are taking drastic steps to replace their workforce with AI, but a more effective approach exists. Blindly letting people go is not an AI integration strategy; it's a failure of imagination about what your workforce could do with the right framework in place.
+
+### The operating model: AI removes friction. Humans decide.
+The organizations getting this right aren't replacing roles with AI. AI’s role is to remove friction — drafting, summarizing, and organizing information before and after the meeting. The meeting itself belongs entirely to humans. That’s where judgment happens. That’s where decisions get made. When you blur those roles, you get more activity, not better outcomes.
+
+### What are ineffective, unproductive meetings costing you?
+Let’s do the math: avg $90/hr × 6 people × 3 meetings/week × 52 weeks = $84,240/year. 
+That’s the visible cost. The invisible cost is worse: slower decisions, repeated conversations, work that starts without alignment, and people losing the time to think.
+
+Gallup’s 2023 data put 59% of the global workforce in quiet-quitting territory. Disengagement costs the global economy $8.8 trillion a year. That means 3-4 of those six people in your meeting are likely already halfway out the door.
+
+### The framework: Three meeting Phases: Before. During. After.  
+* Every meeting has a single decision owner.
+* Every meeting has a pre-read owner.
+* No decision owner = no meeting.
+
+#### Phase 1: Before — AI drafts, human approves (HITL)
+The pre-read has a single owner. AI drafts it using inputs from emails, drives, and dashboards. A human approves it. If it’s not sent 24 hours ahead, the meeting doesn’t happen.
+
+| Without this framework | With this framework |
+| :--- | :--- |
+| Agenda sent 5 minutes before (or not at all) | Time-blocked agenda sent 24 hrs. ahead |
+| Attendees not pre-prepared | Everyone arrives with AI-summarized pre-read |
+| Dashboard data read aloud | Key metrics flagged and summarized in advance |
+
+#### Phase 2: During — humans only in the room
+* If the information is in the pre-read, it doesn’t get repeated.
+* If no decision is made, the meeting hasn’t done its job. 
+* If you didn’t review the pre-read, you’re not ready to participate.
+
+| Without this framework | With this framework |
+| :--- | :--- |
+| Status updates fill the meeting | Status in the pre-read; meeting is for decisions |
+| No structure, action items lost | Human notetaker, structured template: decision/owner/deadline |
+| Quiet voices stay quiet | Pre-read creates on-ramps; participants contribute via multiple options |
+
+**A note on AI in the room:** Third-party AI transcription tools introduce privacy risks. Organizations need policies that define acceptable use and clear definitions of AI meeting recordings and note-taking.
+
+#### Phase 3: After — AI drafts from human notes
+The meeting isn’t complete until the summary is approved and sent. That step has an owner — and a same-day deadline.
+
+| Without this framework | With this framework |
+| :--- | :--- |
+| Follow-up email repeats same confusion | AI drafts summary and action items from structured notes |
+| Action items forgotten or misattributed | Every item has an owner and a deadline — sent same day |
+| Next meeting starts the same way as last | Pre-read for the next meeting starts building immediately |
+
+### The close
+The 30-minute meeting isn’t a productivity hack. If a meeting can’t produce a decision in 30 minutes, it isn’t ready to exist. Meeting design mirrors your organizational culture. Are you dedicated to full calendars or creating an ecosystem that moves the organization forward? 
+
+Pick one recurring meeting this week. Apply this model. See what changes.
+
+---
+
+### Disclosures:
+* **Ethical AI:** All text was written by the author. AI models (Claude Sonnet 4.6, Gemini 3 Flash, ChatGPT 5.3) were used as copy editors.
+* **Privacy by Design:** No personal data or voice clones were used. 
+* **Accessibility by Design:** All tables provided in text-only format for screen-readers.
+* **Data Conservation:** Optimized for efficiency. 
+
+© 2026 Karen Jensen. All Rights Reserved.
